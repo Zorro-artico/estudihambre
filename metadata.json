@@ -1,0 +1,6 @@
+{
+  "name": "Estudihambre Life",
+  "description": "Seguimiento calórico, proteico y metabólico offline-first con geometría de recipientes, Gemini multimodal y exportación Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

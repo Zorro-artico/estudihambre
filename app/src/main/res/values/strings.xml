@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Estudihambre Life</string>
+    <string name="widget_daily_cauldron_description">Resumen de calorías restantes, proteína faltante e hidratación de Estudihambre Life.</string>
+</resources>
